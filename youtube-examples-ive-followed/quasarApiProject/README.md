@@ -1,6 +1,5 @@
-# Quasar App (quasar-demo)
-
-A Quasar Framework app
+# Breaking Bad Character Sheets
+This was a resource taken mostly from youtube to help me understand the use of quasar when using it with an api.
 
 ## Install the dependencies
 ```bash
