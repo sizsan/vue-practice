@@ -1,4 +1,5 @@
 # playlistapp
+This was a look at vue without quasar so i could get a better understanding of what quasar actually brings to the table.
 
 ## Project setup
 ```
